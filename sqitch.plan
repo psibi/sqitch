@@ -2,3 +2,4 @@
 %project=flipr
 %uri=https://github.com/psibi/sqitch
 
+appschema 2018-10-24T07:35:16Z Sibi Prabakaran <sibi@psibi.in> # Add schema for all flipr objects
