@@ -3,3 +3,4 @@
 %uri=https://github.com/psibi/sqitch
 
 appschema 2018-10-24T07:35:16Z Sibi Prabakaran <sibi@psibi.in> # Add schema for all flipr objects
+users [appschema] 2018-10-24T08:09:38Z Sibi Prabakaran <sibi@psibi.in> # Create tables to track our users
